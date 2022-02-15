@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     id: 0,
     category: "강아지",
